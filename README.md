@@ -40,13 +40,17 @@ This is a course design from Design &amp; Bulid Ⅰ(First Semester) and I am the
 图3 整车爆炸图
 </p>  
 
+<p align="center">
 ![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/real_car.jpg)  
+</p>  
 
 <p align="center">
 图4 实物演示图
 </p>  
 
+<p align="center">
 ![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/test.jpg)   
+</p>  
 
 <p align="center">
 图5 实物测试图
