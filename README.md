@@ -18,19 +18,25 @@ This is a course design from Design &amp; Bulid Ⅰ(First Semester) and I am the
 
 &emsp;&emsp;总之，本项目从现实入手，关注在全球疫情下的行业问题，结合商业经济分析，通过对机械、计算机、微电子、传感、自动化领域知识的运用，将创意转换为产品，在一组成员的共同努力之下，顺利完成了课程任务。  
 
-&emsp;&emsp;接下来是一些项目图片展示：
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/tree.jpg) 
+&emsp;&emsp;接下来是一些项目图片展示：  
+
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/tree.jpg)   
+
 <center> 图片1 产品目标树 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/design.jpg)
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/design.jpg)  
+
 <center> 图片2 整车设计图 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/bomb.jpg) 
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/bomb.jpg)   
+
 <center> 图片3 整车爆炸图 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/real_car.jpg)
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/real_car.jpg)  
+
 <center> 图片4 实物演示图 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/test.jpg) 
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/test.jpg)   
+
 <center> 图片5 实物测试图 </center>  
 
