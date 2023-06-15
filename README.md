@@ -22,7 +22,7 @@ This is a course design from Design &amp; Bulid Ⅰ(First Semester) and I am the
 
 &emsp;&emsp;接下来是一些项目图片展示：  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/tree.jpg)   
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/devide.jpg)   
 
 <p align="center">
 图1 产品目标树
