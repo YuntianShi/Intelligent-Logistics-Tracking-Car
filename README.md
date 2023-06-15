@@ -20,11 +20,11 @@ This is a course design from Design &amp; Bulid Ⅰ(First Semester) and I am the
 
 &emsp;&emsp;接下来是一些项目图片展示：  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/tree.jpg)   
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/tree.jpg)   
 
 <center> 图片1 产品目标树 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/design.jpg)  
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/design.jpg)  
 
 <center> 图片2 整车设计图 </center>  
 
@@ -32,11 +32,11 @@ This is a course design from Design &amp; Bulid Ⅰ(First Semester) and I am the
 
 <center> 图片3 整车爆炸图 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/real_car.jpg)  
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/real_car.jpg)  
 
 <center> 图片4 实物演示图 </center>  
 
-![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/bolb/main/test.jpg)   
+![iamge](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car/blob/main/test.jpg)   
 
 <center> 图片5 实物测试图 </center>  
 
